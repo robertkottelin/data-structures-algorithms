@@ -6,7 +6,7 @@ Our carefully crafted collection of files is designed to help you master the "go
 
 So why wait? Start exploring our repo today and take the first step toward unlocking your true potential as a programmer. With our materials in your arsenal, you'll be ready to conquer any coding challenge that comes your way and land your dream job in no time.
 
-# Make sure to reach out on Twitter if there are any bugs of if you need help!
+Make sure to reach out on Twitter if there are any bugs of if you need help!
 https://twitter.com/robertkottelin
 
 Rust:
