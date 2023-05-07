@@ -16,8 +16,8 @@ fn lcs(x: &str, y: &str) -> usize {
     dp[m][n]
 }
 
-fn main() {
-    let x = "ABCBDAB";
-    let y = "BDCAB";
-    println!("The length of the LCS is: {}", lcs(x, y));
-}
+// fn main() {
+//     let x = "ABCBDAB";
+//     let y = "BDCAB";
+//     println!("The length of the LCS is: {}", lcs(x, y));
+// }

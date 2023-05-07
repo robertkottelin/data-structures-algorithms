@@ -1,4 +1,3 @@
-// RUST
 fn bs_list(haystack: &[i32], needle: i32) -> bool {
     let mut low = 0;
     let mut high = haystack.len() - 1;

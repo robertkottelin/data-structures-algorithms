@@ -29,8 +29,8 @@ fn max_profit_multiple_transactions(prices: &[i32]) -> i32 {
     profit
 }
 
-fn main() {
-    let prices = [7, 1, 5, 3, 6, 4];
-    println!("Max profit (single transaction): {}", max_profit(&prices)); // Output: 5
-    println!("Max profit (multiple transactions): {}", max_profit_multiple_transactions(&prices)); // Output: 7
-}
+// fn main() {
+//     let prices = [7, 1, 5, 3, 6, 4];
+//     println!("Max profit (single transaction): {}", max_profit(&prices)); // Output: 5
+//     println!("Max profit (multiple transactions): {}", max_profit_multiple_transactions(&prices)); // Output: 7
+// }

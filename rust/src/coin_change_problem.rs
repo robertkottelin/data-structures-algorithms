@@ -18,8 +18,8 @@ fn coin_change(coins: &[usize], amount: usize) -> i32 {
     }
 }
 
-fn main() {
-    let coins = [1, 2, 5];
-    let amount = 11;
-    println!("Fewest number of coins that sum up to {}: {}", amount, coin_change(&coins, amount));
-}
+// fn main() {
+//     let coins = [1, 2, 5];
+//     let amount = 11;
+//     println!("Fewest number of coins that sum up to {}: {}", amount, coin_change(&coins, amount));
+// }
