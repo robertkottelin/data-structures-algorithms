@@ -12,5 +12,6 @@
 
         thermometer.SendData("Temperature: 22°C");
         // Other instruments can also send data.
+        // Other
     }
 }
